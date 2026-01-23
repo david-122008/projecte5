@@ -34,4 +34,16 @@ Aquí només li donem a install,
 
 En aquest apartat ens sortirà que com user name administrador, no l’hem de tocar, només posar com a contrasenya P@ssw0rd
 
+![Imatge 01](IMG/INGM10.png)
+
+El server manager serà la nostra eina principal 
+
+![Imatge 01](IMG/INGM11.png)
+
+Primer de tot canviarem el nostre nom del nostre server
+
+![Imatge 01](IMG/INGM13.png)
+
+Per fer-ho anirem a l’apartat de local server, i a computer name posarem DC07 i li donarem a ok
+
 
