@@ -94,5 +94,7 @@ Entrarem a forwarders look up zone i li donarem ha edit,
 
 Aquí afegirem l’IP del DNS de Google,
 
+![Imatge 01](IMG/INM29.png)
 
+I crearem un script per automatitzar el proces
 
