@@ -1,4 +1,4 @@
-![Imatge 01](IMG/INGM2.png)
+![Imatge 01](IMG/INGM22.png)
 
 Primer de tot crearem una màquina amb l'ISO de Windows server, amb els següents detalls  8 GB de RAM i dos processadors. La VM disposarà de dos discos, un de 32 GB com a disc principal) i un de secundari de 10 GB. La màquina haurà de tenir dues interfícies de xarxa: una en xarxa NAT (no NAT) i la segona en host-only.
 
