@@ -44,6 +44,8 @@ Primer de tot canviarem el nostre nom del nostre server
 
 ![Imatge 01](IMG/INGM13.png)
 
+![Imatge 01](IMG/INGM23.png)
+
 Per fer-ho anirem a l’apartat de local server, i a computer name posarem DC07 i li donarem a ok
 
 ![Imatge 01](IMG/INGM20.png)
