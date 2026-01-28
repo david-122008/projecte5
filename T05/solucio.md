@@ -92,7 +92,7 @@ Ara configurarem un reenviador per fer que sigui més ràpid, però fer-ho anire
 
 ![Imatge 01](IMG/INM23.png)
 
-Entrarem a forwarders look up zone i li donarem ha edit,
+Entrarem a forwarders i li donarem ha edit,
 
 ![Imatge 01](IMG/INM24.png)
 
