@@ -68,7 +68,11 @@ En aquest apartat a next, 
 
 ![Imatge 01](IMG/INM16.png)
 
-Li donem a next
+Li donem a view script
+
+![Imatge 01](IMG/INM29.png)
+
+I crearem un script per automatitzar el proces
 
 ![Imatge 01](IMG/INM17.png)
 
@@ -94,7 +98,4 @@ Entrarem a forwarders look up zone i li donarem ha edit,
 
 Aquí afegirem l’IP del DNS de Google,
 
-![Imatge 01](IMG/INM29.png)
-
-I crearem un script per automatitzar el proces
 
