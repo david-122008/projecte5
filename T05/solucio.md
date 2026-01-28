@@ -22,7 +22,7 @@ Posteriorment, tornarem a srever manager, i a l’apartat de manager li donarem 
 
 A select installation type seleccionarem la primera opció
 
-![Imatge 01](IMG/INM24.png)
+![Imatge 01](IMG/INGM24.png)
 
 Instalarem el roles de forma centrlitzada,
 
